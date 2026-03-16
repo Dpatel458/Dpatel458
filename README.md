@@ -22,7 +22,7 @@
 * Deep Learning Architectures
 * Retrieval-Augmented Generation (RAG) Systems
 * Efficient AI for low-compute environments
-* AI-powered web applications
+* AI research and experimental ML-DL systems
 
 ---
 
