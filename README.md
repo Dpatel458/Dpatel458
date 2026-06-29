@@ -39,18 +39,20 @@
 
 ### AI / ML
 
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge\&logo=r\&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge&logo=langchain&logoColor=white)
+![NetworkX](https://img.shields.io/badge/NetworkX-Graph%20Analysis-2E8B57?style=for-the-badge&logo=python&logoColor=white)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
+
 **Concepts & Areas:**
-Machine Learning • Deep Learning • RAG • NLP
+Machine Learning • Deep Learning • RAG • NLP • Graph Analytics • Network Analysis
 
 ### Web Development
 
@@ -79,7 +81,7 @@ Neural network pruning framework designed to reduce computational requirements f
 A **RAG-based document intelligence system** capable of extracting, processing, and answering queries from structured and unstructured documents. (In-Progress)
 
 🕷 **CrawlMind**
-Experimental **AI-oriented crawler framework** exploring different search strategies other than DFS, BFS, and Best-First Search like A*, IDDFS, heuristically-driven Algos. etc. for intelligent web crawling.(In-Progress)
+Experimental **AI-oriented crawler framework** exploring different search strategies other than DFS, BFS, and Best-First Search like A*, IDDFS, heuristically-driven Algos. etc. for intelligent web crawling. (In-Progress)
 
 🚀 **Rocket Stability Prediction**
 Machine learning and deep learning models trained on **simulated OpenRocket data** to predict the aerodynamic stability of model rockets.
